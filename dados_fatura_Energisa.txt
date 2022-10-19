@@ -1,0 +1,6 @@
+Numero da Instalacao: 21,00
+
+Data Leitura Anterior: 75,01
+
+Data Leitura Atual: 0,00
+
