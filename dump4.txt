@@ -1,0 +1,86 @@
+5 110,743: 121179508
+5 220,743: 10106078
+5 184,726: INSC. EST:  
+5 40,659: CPF/CNPJ: 05.872.814/0001-30       VOGEL SOLUCOES EM TELECOMUNICACOES E INF   R DANIEL 107 CEP: 06805-050 - EMBU/SP  
+5 66,618: B
+5 114,618: B3
+5 154,618: COMÉRCIO, SERV.E OUTRAS ATIV.
+5 74,607: ADMINISTRAÇÃO CONDOMINAL
+5 105,576: Monofásico
+5 216,576: Convencional
+5 390,794:  
+5 307,740: 28 OUT 2022
+5 380,739: 346,18
+5 365,727: SET 2022
+5 346,684: 25 AGO
+5 350,671: 26 SET
+5 348,658: 26 OUT
+5 397,698: 9932960
+5 402,672: 48.30748.645
+5 399,634: 1,00000338,0
+5 415,621: 32
+5 434,623: set/22 ago/22jul/22jun/22mai/22abr/22mar/22fev/22jan/22dez/21nov/21out/21set/21
+5 384,605: 2858.D407.721F.EA9E.D7D9.9672.D28A.2F97
+5 551,787: 1 
+5 526,624: 338287 362305347436486407468415358364392
+5 543,624: 32293330293230283329293231
+5 311,585: 26 SET 2022
+5 318,575: 286,795253:  Venda de en. elétrica p/ estabelecimento comercial
+5 367,586: 447505815
+5 416,586: B
+5 487,586:  18%
+5 525,586: 51,62
+5 291,531: QTD kWh
+5 281,510: 338,000338,000
+5 319,549: VERDE    
+5 348,531: TARIFA C/ICMS
+5 347,510: 0,482960,31763
+5 395,531: BASE ICMS
+5 391,510: 163,24107,36
+5 394,488: 2,8813,31
+5 435,531: ALIQ ICMS
+5 436,510: 18%18%
+5 436,488: 18%18%
+5 472,539: ICMS
+5 514,539: VALOR
+5 470,510: 29,3819,32
+5 474,488: 0,522,40
+5 515,510: 163,24107,36
+5 519,488: 2,8813,31
+5 519,474: 59,39
+5 237,457: Tarifas aplicadas (sem impostos)
+5 310,443: 0,39603 (TUSD)
+5 446,443: 0,26046 (TE)
+5 40,539: CCI
+5 79,538: DESCRIÇÃO
+5 41,510: 06050601
+5 41,488: 06990699
+5 41,474: 0807
+5 80,510: USO SIST. DISTR. (TUSD)ENERGIA (TE)
+5 80,488: PIS/PASEP (1,01%)COFINS (4,65%)
+5 80,474: CIP-EMBU - MUNICIPAL
+5 40,429: CONVENCIONAL  Valor dos Tributos: R$ 64,91
+5 40,385:    
+5 40,178: Considerar esta conta quitada somente após o débito em sua conta corrente. Débito Automatico BANCO SANTANDER BANESPA SA Se por algum motivo de seu conhecimento não ocorrer o débito automático, pague esta conta em qualquer banco autorizado. Prezado cliente, a partir de 1º de agosto começam as visitas dos recenseadores que farão a coleta de dados para o Censo Demográfico 2022.          
+5 40,86:          
+5 38,50: Prezado cliente, para quitar esta conta de energia, verifique a próxima página deste documento.
+5 247,65: 100144270770
+6 64,679: 26 SET 2022
+6 156,679: SET 2022
+6 233,679: 28 OUT 2022
+6 306,682: Você sabia que desde Janeiro de 2022 as famíliasde baixa renda estão sendo inclusas automaticamen-te na Tarifa Social? Esse programa é do GovernoFederal que concede descontos nas tarifas deenergia, por isso é fundamental que o cadastroesteja atualizado no CadÚnico e junto a Enel.Acesse nosso site www.enel.com e saiba mais
+6 556,786: 2 
+6 83,341: PREFEITURA DO MUNICÍPIO 0800 77 92 000
+6 44,52: - CLIENTE, PAGUE PREFERENCIALMENTE NOS CANAIS ELETRÔNICOS - CADASTRE SUA FATURA EM DÉBITO AUTOMÁTICO UTILIZANDO O NUMERO DA CONTA CONFORME EXIBIDO AO LADO                              
+6 233,215: 517612613086
+6 364,215: 26 SET 2022
+6 493,215: SET 2022
+6 241,172: 121179508
+6 363,172: 28 OUT 2022
+6 499,172: 346,18
+6 273,151: VOGEL SOLUCOES EM TELECOMUNICACOES E INF
+6 218,108: - ENCARGOS POR ATRASO SERÃO COBRADOS NA PRÓXIMA FATURA - APROVEITE OS BENEFÍCIOS DO DÉBITO AUTOMÁTICO    
+6 212,46: 836600000035
+6 292,46: 461800481008
+6 371,46: 242606256715
+6 451,46: 001442707707

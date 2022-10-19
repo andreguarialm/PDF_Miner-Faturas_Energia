@@ -1,0 +1,16 @@
+Numero da Instalacao: 121179508
+
+Numero do Cliente: 10106078
+
+Data Leitura Anterior: 25 AGO
+
+Data Leitura Atual: 26 SET
+
+Data Proxima Leitura: 348.494 658.519 26 OUT
+
+Data Proxima Leitura: 348.95 531.12 TARIFA 
+C/ICMS
+
+Data Proxima Leitura: 347.38899999999995 510.197 0,48296
+0,31763
+
