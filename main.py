@@ -2,6 +2,7 @@ import os
 import urllib
 from flask import Flask, make_response, jsonify, request
 from flask_cors import CORS
+from PDFMinerFINAL import capture_invoice
 
 app = Flask('eltanin-miner')
 CORS(app)
@@ -14,15 +15,18 @@ def ping():
 
 @app.route('/capture', methods=['POST'])
 def capture():
+    distributor = request.json['distributorId']
     file = request.json['file']
     if (file):
         resp = urllib.request.urlopen(file)
-        with open('uploaded.pdf', 'wb') as f:
+        with open('invoice.pdf', 'wb') as f:
             f.write(resp.file.read())
     else:
         open('invoice.pdf', 'wb')
 
-    response = jsonify({'json': 'true'})
+    result_capture = capture_invoice()
+
+    response = jsonify({'data': result_capture})
     return make_response(response)
 
-app.run()
+app.run(debug=True)
