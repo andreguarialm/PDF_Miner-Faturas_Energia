@@ -1,4 +1,3 @@
-import win32com.client
 import xlsxwriter
 import xlwings as xw
 import pandas as pd
@@ -6,7 +5,7 @@ import pythoncom
 
 def read_result():
 
-    win32com.client.Dispatch("Excel.Application",pythoncom.CoInitialize())
+    pythoncom.CoInitialize()
 
     excel_app = xw.App(visible=False)
     excel_book_dados = excel_app.books.open('dados_fatura.xlsx')
@@ -42,6 +41,9 @@ def check_used_rows(row):
         return False
 
     if ('///' in rowValue):
+        return False
+
+    if (row['type'] == None):
         return False
 
     return True

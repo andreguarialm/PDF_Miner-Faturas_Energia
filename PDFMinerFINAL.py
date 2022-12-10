@@ -9,6 +9,7 @@ from pdfminer.layout import LAParams
 from pdfminer.converter import PDFPageAggregator
 import pdfminer
 import xlsxwriter
+import openpyxl
 
 import pandas as pd
 
